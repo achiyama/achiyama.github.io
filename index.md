@@ -1,4 +1,4 @@
-## ACHIYAMA
+## ACHIYAMA.com
 
 ## Kohei Akiyama (秋山 孝平)
 
@@ -15,9 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+## 職務経歴
 
-## Header 2
+### 日本ビジネスシステムズ株式会社(2020/04 ~ 現在)
 
 ### Header 3
 
