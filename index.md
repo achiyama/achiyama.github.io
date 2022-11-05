@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Account
 
 - Twitter: [@achiy4ma](https://twitter.com/achiy4ma)
-- LinkedIn: [www.linkedin.com/in/koheiakiyama](www.linkedin.com/in/koheiakiyama)
+- LinkedIn: [https://www.linkedin.com/in/koheiakiyama/](https://www.linkedin.com/in/koheiakiyama/)
 - GitHub: [https://github.com/achiyama](https://github.com/achiyama)
 
 ```markdown
